@@ -10,25 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17a9e74c-dfc4-4014-bafa-f04d0d8780e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/picasso_2_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final-android.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/rest/FakeEmailService.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/rest/FakeEmailService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailDetailFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailDetailFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/LoginActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/RealAuthenticationManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/RealAuthenticationManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout-large/activity_email_list.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout-large/activity_email_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_email_list.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_email_list.xml" />
     </list>
     <ignored path="final-android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,14 +43,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EmailAdapter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailAdapter.java">
+      <file leaf-file-name="EmailListFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11789773">
-              <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.31392047">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="2" selection-end-line="65" selection-end-column="9" />
               <folding>
-                <marker date="1449796266000" expanded="false" signature="1325:1348" placeholder="40dp" />
-                <marker date="1449796266000" expanded="false" signature="1350:1373" placeholder="40dp" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1637,6 +1622,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailDetailFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_email_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-large/activity_email_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java" />
       </list>
     </option>
   </component>
@@ -1725,6 +1714,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="final-android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity_email_list.xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1871,6 +1882,37 @@
       <Java />
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="nyc.c4q.android.ui.LoginActivity" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EmailListActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="nyc.c4q.android.ui.EmailListActivity" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2110,13 +2152,15 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
       <item index="1" class="java.lang.String" itemvalue="Android Application.LoginActivity" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.EmailListActivity" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Android Application.LoginActivity" />
+        <item index="1" class="java.lang.String" itemvalue="Android Application.EmailListActivity" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -2133,6 +2177,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="17a9e74c-dfc4-4014-bafa-f04d0d8780e6" name="Default" comment="" />
@@ -2173,11 +2220,11 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2190,24 +2237,44 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/EmailApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09801137">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <marker date="1449796266000" expanded="false" signature="33:229" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="697:1567" placeholder="{...}" />
-            <marker date="1449796266000" expanded="true" signature="991:1510" placeholder="{...}" />
-            <marker date="1449796266000" expanded="true" signature="1027:1504" placeholder="{...}" />
-            <marker date="1449796266000" expanded="true" signature="1081:1428" placeholder="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44296297">
@@ -2226,63 +2293,6 @@
             <marker date="1449796703000" expanded="true" signature="1275:1394" placeholder="..." />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_email_list.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6775194">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <marker date="1449796266000" expanded="true" signature="74:925" placeholder="..." />
-            <marker date="1449796266000" expanded="false" signature="233:266" placeholder="&quot;16dp&quot;" />
-            <marker date="1449796266000" expanded="false" signature="291:326" placeholder="&quot;16dp&quot;" />
-            <marker date="1449796266000" expanded="false" signature="352:387" placeholder="&quot;16dp&quot;" />
-            <marker date="1449796266000" expanded="false" signature="411:444" placeholder="&quot;16dp&quot;" />
-            <marker date="1449796266000" expanded="true" signature="532:906" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_email_detail.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35813954">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding>
-            <marker date="1449796266000" expanded="true" signature="113:1758" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="212:462" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="478:711" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="727:1092" placeholder="..." />
-            <marker date="1449796266000" expanded="false" signature="891:924" placeholder="&quot;16dp&quot;" />
-            <marker date="1449796266000" expanded="false" signature="946:969" placeholder="&quot;Subject&quot;" />
-            <marker date="1449796266000" expanded="true" signature="1106:1347" placeholder="..." />
-            <marker date="1449796266000" expanded="false" signature="1259:1292" placeholder="&quot;16dp&quot;" />
-            <marker date="1449796266000" expanded="true" signature="1446:1739" placeholder="..." />
-            <marker date="1449796266000" expanded="false" signature="1594:1614" placeholder="&quot;Body&quot;" />
-            <marker date="1449796266000" expanded="false" signature="1649:1682" placeholder="&quot;16dp&quot;" />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_email_list.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32093024">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <marker date="1449796266000" expanded="true" signature="111:944" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="399:612" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="653:743" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="762:927" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -2319,21 +2329,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailDetailFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52366865">
-          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
-          <folding>
-            <marker date="1449798823000" expanded="false" signature="36:383" placeholder="..." />
-            <marker date="1449798823000" expanded="true" signature="619:725" placeholder="{...}" />
-            <marker date="1449798823000" expanded="true" signature="843:1134" placeholder="{...}" />
-            <marker date="1449798823000" expanded="true" signature="934:996" placeholder="//..." />
-            <marker date="1449798823000" expanded="true" signature="1197:1397" placeholder="{...}" />
-            <marker date="1449798823000" expanded="true" signature="1203:1375" placeholder="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/RealAuthenticationManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06534091">
@@ -2341,59 +2336,6 @@
           <folding>
             <marker date="1449798531000" expanded="true" signature="165:432" placeholder="{...}" />
             <marker date="1449798531000" expanded="true" signature="171:263" placeholder="//..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5099432">
-          <caret line="70" column="64" selection-start-line="70" selection-start-column="64" selection-end-line="70" selection-end-column="64" />
-          <folding>
-            <marker date="1449798614000" expanded="false" signature="36:301" placeholder="..." />
-            <marker date="1449798614000" expanded="true" signature="548:616" placeholder="{...}" />
-            <marker date="1449798614000" expanded="true" signature="681:1409" placeholder="{...}" />
-            <marker date="1449798614000" expanded="false" signature="1148:1228" placeholder="(v) → {" />
-            <marker date="1449798614000" expanded="false" signature="1394:1403" placeholder="}" />
-            <marker date="1449798614000" expanded="true" signature="1445:2039" placeholder="{...}" />
-            <marker date="1449798614000" expanded="true" signature="1680:1706" placeholder="&quot;Wrong email or password.&quot;" />
-            <marker date="1449798614000" expanded="true" signature="1730:1757" placeholder="&quot;Invalid Credentials&quot;" />
-            <marker date="1449798614000" expanded="true" signature="1791:1820" placeholder="&quot;Dismiss&quot;" />
-            <marker date="1449798614000" expanded="false" signature="1822:1921" placeholder="(dialog, id) → {" />
-            <marker date="1449798614000" expanded="false" signature="1952:1961" placeholder="}" />
-            <marker date="1449798614000" expanded="true" signature="2104:2374" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47727272">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <marker date="1449796266000" expanded="false" signature="36:447" placeholder="..." />
-            <marker date="1449796266000" expanded="true" signature="634:672" placeholder="{...}" />
-            <marker date="1449796266000" expanded="true" signature="762:806" placeholder="{...}" />
-            <marker date="1449796266000" expanded="true" signature="860:1152" placeholder="{...}" />
-            <marker date="1449796266000" expanded="true" signature="1270:1534" placeholder="{...}" />
-            <marker date="1449796266000" expanded="true" signature="1326:1512" placeholder="//..." />
-            <marker date="1449796266000" expanded="true" signature="1602:1697" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0454545">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-          <folding>
-            <marker date="1449798823000" expanded="false" signature="36:303" placeholder="..." />
-            <marker date="1449798823000" expanded="true" signature="518:640" placeholder="{...}" />
-            <marker date="1449798823000" expanded="true" signature="679:1103" placeholder="{...}" />
-            <marker date="1449798823000" expanded="true" signature="1165:1238" placeholder="{...}" />
-            <marker date="1449798823000" expanded="true" signature="1295:1829" placeholder="{...}" />
-            <marker date="1449798823000" expanded="true" signature="1324:1548" placeholder="//..." />
-            <marker date="1449798823000" expanded="true" signature="1573:1673" placeholder="//..." />
           </folding>
         </state>
       </provider>
@@ -2421,32 +2363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/rest/EmailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13068181">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <marker date="1449796266000" expanded="false" signature="38:89" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/rest/FakeEmailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28125">
-          <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
-          <folding>
-            <marker date="1449797306000" expanded="false" signature="38:305" placeholder="..." />
-            <marker date="1449797306000" expanded="true" signature="4828:5376" placeholder="{...}" />
-            <marker date="1449797306000" expanded="false" signature="5479:5486" placeholder=" { " />
-            <marker date="1449797306000" expanded="false" signature="5500:5504" placeholder=" }" />
-            <marker date="1449797306000" expanded="true" signature="5536:5734" placeholder="{...}" />
-            <marker date="1449797306000" expanded="true" signature="5786:5918" placeholder="{...}" />
-            <marker date="1449797306000" expanded="true" signature="5983:6192" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/AuthenticationManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06534091">
@@ -2467,13 +2383,232 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_email_row.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.56899226">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449796266000" expanded="true" signature="111:1095" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="249:472" placeholder="..." />
+            <marker date="1449796266000" expanded="false" signature="316:340" placeholder="&quot;40dp&quot;" />
+            <marker date="1449796266000" expanded="false" signature="369:393" placeholder="&quot;40dp&quot;" />
+            <marker date="1449796266000" expanded="true" signature="490:1079" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="705:876" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="892:1060" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/rest/EmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13068181">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1449796266000" expanded="false" signature="38:89" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_email_detail.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449796266000" expanded="true" signature="71:547" placeholder="..." />
+            <marker date="1449796266000" expanded="false" signature="275:308" placeholder="&quot;16dp&quot;" />
+            <marker date="1449796266000" expanded="false" signature="333:368" placeholder="&quot;16dp&quot;" />
+            <marker date="1449796266000" expanded="false" signature="394:429" placeholder="&quot;16dp&quot;" />
+            <marker date="1449796266000" expanded="false" signature="453:486" placeholder="&quot;16dp&quot;" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3153409">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding>
+            <marker date="1449798614000" expanded="false" signature="36:301" placeholder="..." />
+            <marker date="1449798614000" expanded="true" signature="548:616" placeholder="{...}" />
+            <marker date="1449798614000" expanded="true" signature="681:1409" placeholder="{...}" />
+            <marker date="1449798614000" expanded="false" signature="1148:1228" placeholder="(v) → {" />
+            <marker date="1449798614000" expanded="false" signature="1394:1403" placeholder="}" />
+            <marker date="1449798614000" expanded="true" signature="1445:2039" placeholder="{...}" />
+            <marker date="1449798614000" expanded="true" signature="1680:1706" placeholder="&quot;Wrong email or password.&quot;" />
+            <marker date="1449798614000" expanded="true" signature="1730:1757" placeholder="&quot;Invalid Credentials&quot;" />
+            <marker date="1449798614000" expanded="true" signature="1791:1820" placeholder="&quot;Dismiss&quot;" />
+            <marker date="1449798614000" expanded="false" signature="1822:1921" placeholder="(dialog, id) → {" />
+            <marker date="1449798614000" expanded="false" signature="1952:1961" placeholder="}" />
+            <marker date="1449798614000" expanded="true" signature="2104:2374" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/rest/FakeEmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1174603">
+          <caret line="68" column="59" selection-start-line="68" selection-start-column="59" selection-end-line="68" selection-end-column="59" />
+          <folding>
+            <marker date="1449797306000" expanded="false" signature="38:305" placeholder="..." />
+            <marker date="1449797306000" expanded="true" signature="4828:5376" placeholder="{...}" />
+            <marker date="1449797306000" expanded="false" signature="5479:5486" placeholder=" { " />
+            <marker date="1449797306000" expanded="false" signature="5500:5504" placeholder=" }" />
+            <marker date="1449797306000" expanded="true" signature="5536:5734" placeholder="{...}" />
+            <marker date="1449797306000" expanded="true" signature="5786:5918" placeholder="{...}" />
+            <marker date="1449797306000" expanded="true" signature="5983:6192" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_email_list.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449796266000" expanded="true" signature="113:464" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="211:445" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_email_list.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35726795">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1449802294000" expanded="true" signature="74:949" placeholder="..." />
+            <marker date="1449802294000" expanded="false" signature="233:266" placeholder="&quot;16dp&quot;" />
+            <marker date="1449802294000" expanded="false" signature="291:326" placeholder="&quot;16dp&quot;" />
+            <marker date="1449802294000" expanded="false" signature="352:387" placeholder="&quot;16dp&quot;" />
+            <marker date="1449802294000" expanded="false" signature="411:444" placeholder="&quot;16dp&quot;" />
+            <marker date="1449802294000" expanded="true" signature="503:930" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-large/activity_email_list.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3625219">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1449802294000" expanded="true" signature="111:965" placeholder="..." />
+            <marker date="1449802294000" expanded="true" signature="367:633" placeholder="..." />
+            <marker date="1449802294000" expanded="true" signature="674:764" placeholder="..." />
+            <marker date="1449802294000" expanded="true" signature="783:948" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11789773">
-          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        <state vertical-scroll-proportion="1.1035503">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
           <folding>
-            <marker date="1449796266000" expanded="false" signature="1325:1348" placeholder="40dp" />
-            <marker date="1449796266000" expanded="false" signature="1350:1373" placeholder="40dp" />
+            <marker date="1449802455000" expanded="false" signature="36:378" placeholder="..." />
+            <marker date="1449802455000" expanded="true" signature="642:751" placeholder="{...}" />
+            <marker date="1449802455000" expanded="false" signature="786:793" placeholder=" { " />
+            <marker date="1449802455000" expanded="false" signature="814:818" placeholder=" }" />
+            <marker date="1449802455000" expanded="false" signature="866:873" placeholder=" { " />
+            <marker date="1449802455000" expanded="false" signature="901:905" placeholder=" }" />
+            <marker date="1449802455000" expanded="false" signature="954:961" placeholder=" { " />
+            <marker date="1449802455000" expanded="false" signature="977:981" placeholder=" }" />
+            <marker date="1449802455000" expanded="true" signature="1058:2094" placeholder="{...}" />
+            <marker date="1449802455000" expanded="false" signature="1671:1694" placeholder="40dp" />
+            <marker date="1449802455000" expanded="true" signature="1696:1719" placeholder="40dp" />
+            <marker date="1449802455000" expanded="true" signature="1777:1864" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/EmailApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33238637">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <marker date="1449796266000" expanded="false" signature="33:229" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="697:1567" placeholder="{...}" />
+            <marker date="1449796266000" expanded="false" signature="976:1028" placeholder="(Runnable) () → {" />
+            <marker date="1449796266000" expanded="true" signature="1081:1428" placeholder="//..." />
+            <marker date="1449796266000" expanded="false" signature="1501:1510" placeholder="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailDetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55539775">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1449798823000" expanded="false" signature="36:383" placeholder="..." />
+            <marker date="1449798823000" expanded="true" signature="619:725" placeholder="{...}" />
+            <marker date="1449798823000" expanded="true" signature="843:1134" placeholder="{...}" />
+            <marker date="1449798823000" expanded="true" signature="934:996" placeholder="//..." />
+            <marker date="1449798823000" expanded="true" signature="1197:1397" placeholder="{...}" />
+            <marker date="1449798823000" expanded="true" signature="1203:1375" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_email_detail.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35813954">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <marker date="1449796266000" expanded="true" signature="113:1758" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="212:462" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="478:711" placeholder="..." />
+            <marker date="1449796266000" expanded="true" signature="727:1092" placeholder="..." />
+            <marker date="1449796266000" expanded="false" signature="891:924" placeholder="&quot;16dp&quot;" />
+            <marker date="1449796266000" expanded="false" signature="946:969" placeholder="&quot;Subject&quot;" />
+            <marker date="1449796266000" expanded="true" signature="1106:1347" placeholder="..." />
+            <marker date="1449796266000" expanded="false" signature="1259:1292" placeholder="&quot;16dp&quot;" />
+            <marker date="1449796266000" expanded="true" signature="1446:1739" placeholder="..." />
+            <marker date="1449796266000" expanded="false" signature="1594:1614" placeholder="&quot;Body&quot;" />
+            <marker date="1449796266000" expanded="false" signature="1649:1682" placeholder="&quot;16dp&quot;" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33238637">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <marker date="1449798823000" expanded="true" signature="36:303" placeholder="..." />
+            <marker date="1449798823000" expanded="true" signature="518:640" placeholder="{...}" />
+            <marker date="1449798823000" expanded="true" signature="679:1103" placeholder="{...}" />
+            <marker date="1449798823000" expanded="true" signature="1165:1238" placeholder="{...}" />
+            <marker date="1449798823000" expanded="true" signature="1295:1829" placeholder="{...}" />
+            <marker date="1449798823000" expanded="true" signature="1324:1548" placeholder="//..." />
+            <marker date="1449798823000" expanded="true" signature="1573:1673" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/android/ui/EmailListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31392047">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="2" selection-end-line="65" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
