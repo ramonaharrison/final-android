@@ -56,15 +56,17 @@ public class FakeEmailService implements EmailService {
   }
 
   public boolean hasNewMail() {
-    // TODO - 30% of the time you should generate a new email
     // hint: this class has a member variable that generates random numbers
-    return false;
+    if (random.nextInt(100) < 30) {
+      emails.add(generateNewRandomEmail());
+    }
+
+    return !emails.isEmpty();
   }
 
   @NonNull private Email generateNewRandomEmail() {
-    // TODO - return a new email
     // hint: use RANDOM_PIC above
-    return null;
+    return new Email("Your friend", RANDOM_PIC, "Hello!", "... world?", makeDate("3/1/15"));
   }
 
   // utility method

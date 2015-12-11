@@ -39,6 +39,7 @@ public class EmailDetailFragment extends Fragment {
     // TODO - implement this factory method
     // create fragment, set up its only argument (the email) and return it
 
+
     // hint
     //args.putSerializable("email", email);
 
